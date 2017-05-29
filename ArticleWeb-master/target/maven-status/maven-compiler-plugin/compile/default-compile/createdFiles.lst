@@ -1,0 +1,8 @@
+articleweb\UploadFile.class
+articleweb\models\News.class
+articleweb\controller\SampleRestController.class
+articleweb\dao\NewsRepository.class
+articleweb\controller\MainController.class
+articleweb\AwsUpload.class
+articleweb\Application.class
+articleweb\service\NewsService.class
